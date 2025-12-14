@@ -4,7 +4,7 @@ import json
 import time
 from datetime import datetime
 
-API_KEY = "ff709caf6e09909d7fb322c7b3420aa6"
+API_KEY = "*****"
 CITY = "Delhi"
 URL = f"http://api.openweathermap.org/data/2.5/weather?q={CITY}&appid={API_KEY}"
 
